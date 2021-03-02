@@ -5,5 +5,5 @@ import (
 )
 
 func Bar() {
-	fmt.Println("foo.Bar() - v0.2.0")
+	fmt.Println("foo.Bar() - v0.3.0")
 }
